@@ -19,10 +19,10 @@ c. one housing for a mini microswitch<br />
 d. one tiny dick (pin for the mini microswitch)<br />
 e. two caps and f. two bottoms for assembling two thumb screws<br />
 g. one corner for mounting vetical rail<br />
-h.one mounting tool for LED-frame rails<br />
+h. one mounting tool for LED-frame rails<br />
 <br />
 Set 1 should be printed without brim or any supports. <br />
-For structural purposes infill 20% and draft quality (0.35 mm thickness of vertical layers) is sufficient.<br />
+For structural purposes 20% infill and draft quality (0.35 mm thickness of vertical layers) is sufficient.<br />
 Printing the set with the draft quality should take ca 7.5h. <br />
 Printing with 0.2 mm vertical layer thickness will have only esthetical benefits and will take ca 12.5h.
 <br />
