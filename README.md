@@ -22,6 +22,7 @@ g. one corner for mounting vetical rail<br />
 h. one mounting tool for LED-frame rails<br />
 <br />
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%201%20slicer.jpg"  height="350" width="600">
+<br />
 Set 1 should be printed without brim or any supports. <br />
 For structural purposes 20% infill and draft quality (0.35 mm thickness of vertical layers) is sufficient.<br />
 Printing the set with the draft quality should take ca 7.5h. <br />
