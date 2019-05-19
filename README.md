@@ -21,10 +21,14 @@ e. two caps and f. two bottoms for assembling two thumb screws<br />
 g. one corner for mounting vetical rail<br />
 h. one mounting tool for LED-frame rails<br />
 <br />
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%201%20slicer.jpg"  height="350" width="600">
+<br />
+<br />
 Set 1 should be printed without brim or any supports. <br />
 For structural purposes 20% infill and draft quality (0.35 mm thickness of vertical layers) is sufficient.<br />
 Printing the set with the draft quality should take ca 7.5h. <br />
 Printing with 0.2 mm vertical layer thickness will have only esthetical benefits and will take ca 12.5h.
+
 <br />
 <br />
 <br />
@@ -34,6 +38,9 @@ a. one borgs/birds nest (housing for the electronics)<br />
 b. one lid for the nest<br />
 c. one holder for the SparkFun Mosfet kit<br />
 d. one lid for the DC connector<br />
+<br />
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%202%20slicer.jpg"  height="350" width="600">
+<br />
 <br />
 Set 2 should be printed without brim or any supports. Removing supports will be an oustandigly unpleasant task, I cut up myself real bad with the screwdriver <br />
 For structural purposes 20% infill and draft quality (0.35 mm thickness of vertical layers) is sufficient. <br />
@@ -49,6 +56,10 @@ b. one lid for the camera for raspberry pi v2 camera (set 3a)  for ArduCam IMX21
 c. two caps and two bottoms for assembling two thumb screws<br />
 d. set 3a also includes an extra support for the raspberry pi v2 camera to prevent it from tiliting during manual focusing<br />
 <br />
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203a%20slicer.jpg"  height="350" width="600">
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203b%20slicer.jpg"  height="350" width="600">
+<br />
+<br />
 Set 3 should be printed without brim or any supports. <br />
 For structural purposes 20% infill and normal quality (0.2 mm thickness of vertical layers) is sufficient. <br />
 Printing set 3a should take ca 2h, printing 3b takes ca 4.5 h <br />
@@ -58,6 +69,8 @@ Printing set 3a should take ca 2h, printing 3b takes ca 4.5 h <br />
 <br />
 <b>Set 4</b> includes following structural parts:<br />
 a. one cube
+<br />
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%204%20slicer.jpg"  height="350" width="600">
 <br />
 <br />
 Set 4 should be printed without brim or any supports. <br />
@@ -69,6 +82,7 @@ Printing should take ca 28h.
 <br />
 <b>Set 5</b> includes following structural parts:<br />
 a. one left half of the screen
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%205%20slicer.jpg"  height="350" width="600">
 <br />
 <br />
 Set 5 should be printed with a brim and supports on build plate only <br />
@@ -80,6 +94,7 @@ Printing should take ca 20.5h.
 <br />
 <b>Set 6</b> includes following strucural parts:<br />
 a. one right half of the screen
+<img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%206%20slicer.jpg"  height="350" width="600">
 <br />
 <br />
 Set 6 should be printed with a brim and supports on build plate only <br />
