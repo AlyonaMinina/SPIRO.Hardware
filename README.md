@@ -55,7 +55,7 @@ d. set 3a also includes an extra support for the raspberry pi v2 camera to preve
 <br />
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203a%20slicer.jpg"  height="350" width="600">
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203b%20slicer.jpg"  height="350" width="600">
-Set 3 should be printed without brim or any supports. <br />
+Set 3 should be printed without brim but with supports. <br />
 For structural purposes 20% infill and normal quality (0.2 mm thickness of vertical layers) is sufficient. <br />
 Printing set 3a should take ca 2h, printing 3b takes ca 4.5 h <br />
 <br />
