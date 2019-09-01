@@ -55,7 +55,7 @@ d. set 3a also includes an extra support for the raspberry pi v2 camera to preve
 <br />
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203a%20slicer.jpg"  height="350" width="600">
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%203b%20slicer.jpg"  height="350" width="600">
-Set 3 should be printed without brim or any supports. <br />
+Set 3 should be printed without brim but with supports. <br />
 For structural purposes 20% infill and normal quality (0.2 mm thickness of vertical layers) is sufficient. <br />
 Printing set 3a should take ca 2h, printing 3b takes ca 4.5 h <br />
 <br />
@@ -66,7 +66,7 @@ Printing set 3a should take ca 2h, printing 3b takes ca 4.5 h <br />
 a. one cube
 <br />
 <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Structural%20parts%20set%204%20slicer.jpg"  height="350" width="600">
-Set 4 should be printed without brim or any supports. <br />
+Set 4 should be printed without brim with supports only on the build plate. <br />
 For structural purposes 20% infill and normal quality (0.2 mm thickness of vertical layers) is sufficient. Lower print quality leads to rougher surface that will be visible on the images. Higher infill might make the cube too heavy for the stepper motor. <b>sic!! Please make sure that the cube's bottom is on the printing bed. for this you will currently need to rotate it by -90 degrees on the x axis </b> (I will try to fix it in the stl file, for some reason, unlike other parts the damn cube is not responsive to changing axis in Fusion 360). <br />
 Printing should take ca 28h.
 <br />
