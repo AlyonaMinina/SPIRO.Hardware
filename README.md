@@ -6,6 +6,8 @@
     <b>S</b>mart <b>P</b>late <b>I</b>maging <b>Ro</b>bot
 
 </p>
+<p>  
+</p>
 
 SPIRO is a simple robot for automated time-lapse imaging of biological samples grown on vertically positioned Petri plates: plant seeds, seedlings, bacterial colonies, fungal mycelia, moss etc.
 <p>
@@ -15,7 +17,8 @@ SPIRO is controlled by a designated software and operated remotely using web-bas
 We developed to assays to analyze data produced by SPIRO: germination tracking assay optimized for <i>Arabidopsis thalaiana</i> seeds and root growth tracking assay optimized for <i>Arabidopsis thalaiana</i> seedlings. <a href="https://github.com/jiaxuanleong/spiro-IJmacros">(respository SPIRO by Jia Xuan Leong)</a>
 </p>
 SPIRO hardware comprises thirteen sets of 3D printable structural parts. Sets 3a and 3b are for alternative setups that include either ArduCAM IMX219 with motorized focus or Raspberry Pi v2 camera with manual focus, respectively. The step by step instructions for printing and assembling SPIRO is provided in <a href="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIRO%20assembly%20instructions%20v3.pdf">the assembly manual</a>.
-
+<p>  
+</p>
 <p align="center">
   <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/Figure1A.jpg" height="300" title="SPIRO">
   <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIROstructure.gif" width="300" title="SPIRO">
