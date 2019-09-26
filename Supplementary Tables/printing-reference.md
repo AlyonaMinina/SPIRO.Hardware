@@ -17,4 +17,6 @@
 | [Set 12](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2012.%20Alyona%20Minina.%202019.%20UHEI.stl)  | –               | –           | No   | 20 %   | Matte black | Detail |
 | [Set 13](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2013.%20Alyona%20Minina.%202019.%20UHEI.stl)  | Y: 270°         | –           | No   | 20 %   | Matte black | Detail |
 
-**Notes:** Values for the *Print quality* column refer to the default (Normal) or "Detail" settings (e.g., 0.10 mm layer height).
+**Notes**
+Values for the *Print quality* column refer to the default (Normal) or "Detail" settings (e.g., 0.10 mm layer height).
+Please ignore messages about toolpath being detected outside the perimeter.
