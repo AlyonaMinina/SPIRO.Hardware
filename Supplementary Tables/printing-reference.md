@@ -2,7 +2,7 @@
 
 | STL file                                                                                                                                                                       | Rotation        | Supports    | Brim | Infill | Filament    | Print quality  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---- | ------ | ----------- | ------- |
-| [Set 1](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2001.%20Alyona%20Minina.%202019.%20UHEI.stl)   | X: 90°          | Build plate | No   | 20 %   | Matte black | Normal |
+| [Set 1](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2001.%20Alyona%20Minina.%202019.%20UHEI.stl)   | –          | Build plate | No   | 20 %   | Matte black | Normal |
 | [Set 2](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2002.%20Alyona%20Minina.%202019.%20UHEI.stl)   | –               | Build plate | No   | 20 %   | Matte black | Normal |
 | [Set 3a](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2003a.%20Alyona%20Minina.%202019.%20UHEI.stl) | X: 90°          | Build plate | No   | 20 %   | Matte black | Normal |
 | [Set 3b](https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2003b.%20Alyona%20Minina.%202019.%20UHEI.stl) | X: 90°          | Build plate | No   | 20 %   | Matte black | Normal |
