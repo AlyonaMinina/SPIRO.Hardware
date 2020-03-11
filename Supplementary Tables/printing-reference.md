@@ -16,4 +16,10 @@
 | [Set 10](https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2010.%20Alyona%20Minina.%202019.%20UHEI.stl) | Z: 40°          | –           | Yes  | 30%    | Transparent | <details><summary>Set 10</summary><br/>[Slic3r image](https://raw.githubusercontent.com/AlyonaMinina/SPIRO/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Screenshots%20of%20slic3r/set%2010.jpg) <br/><br/>**Components list:** <br/>1. Top diffusor <br/><br/>**PLA use**: 20 g <br/><br/>**Printing time:** 1.5 h<br/></details> |
 | [Set 11](https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2011.%20Alyona%20Minina.%202019.%20UHEI.stl) | Z: 50°          | –           | Yes  | 30%    | Transparent | <details><summary>Set 11</summary><br/>[Slic3r image](https://raw.githubusercontent.com/AlyonaMinina/SPIRO/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Screenshots%20of%20slic3r/set%2011.jpg) <br/><br/>**Components list:** <br/>1. Right diffusor<br/><br/>**PLA use**: 20 g <br/><br/>**Printing time:** 1.4 h<br/></details> |
 
-
+**Notes:**<br>
+Required total amount of black matt PLA = 1685 g <br>Required total amount of milky white PLA = 75 g<br>Total estimated time of printing = 159.5 h <br>
+<br>
+<br>
+**Accessories:**<br>
+[Seed plating guide for round 9 cm plates](https://www.thingiverse.com/thing:4016917)<br>
+[Seed plating guides and insets for square 12 cm plates](https://www.thingiverse.com/thing:4196441)
