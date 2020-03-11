@@ -18,7 +18,6 @@
 
 
  **Notes:**
-Values for the *Print quality* column refer to the default (Normal) or "Detail" settings (e.g., 0.10 mm layer height).
 Please ignore messages about toolpath being detected outside the perimeter.
 
 
