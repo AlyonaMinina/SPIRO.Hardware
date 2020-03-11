@@ -9,18 +9,18 @@
 <p>  
 </p>
 
-SPIRO is a simple robot for automated time-lapse imaging of biological samples grown on vertically positioned Petri plates: plant seeds, seedlings, bacterial colonies, fungal mycelia, moss etc.
+
+<a href="https://www.alyonaminina.org/spiro">SPIRO</a> is a simple robot for automated time-lapse imaging of biological samples grown on vertically positioned Petri plates: plant seeds, seedlings, bacterial colonies, fungal mycelia, moss etc.
 <p>
 SPIRO is controlled by a designated software and operated remotely using web-based user interface <a href="https://github.com/jonasoh/spiro">(repository by Jonas Ohlsson)</a>.
 </p>
 <p>
 We developed two assays to analyze data produced by SPIRO: germination tracking assay optimized for <i>Arabidopsis thalaiana</i> seeds and root growth tracking assay optimized for <i>Arabidopsis thaliana</i> seedlings <a href="https://github.com/jiaxuanleong/spiro-IJmacros">(repository by Jia Xuan Leong)</a>.
 </p>
-SPIRO hardware includes thirteen sets of 3D printable structural parts. Sets 3a and 3b are for alternative setups that include either ArduCam Motorized Focus cmaera or Raspberry Pi v2 camera with manual focus, respectively. The step by step instructions for printing and assembling SPIRO is provided in <a href="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIRO%20assembly%20instructions%20v3.pdf">the assembly manual</a>. 
+SPIRO hardware includes thirteen sets of 3D printable structural parts. Sets 3a and 3b are for alternative setups that include either ArduCam Motorized Focus cmaera or Raspberry Pi v2 camera with manual focus, respectively. The step by step instructions for printing and assembling SPIRO is provided in <a href="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIRO%20assembly%20instructions%20v3.pdf">the assembly instructions</a>. 
 </p>
 <p>
-Please refer to the <b><a href="https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/Supplementary%20Tables/printing-reference.md">Printing reference sheet</a></b> for instructions on 3D printing.
-<p>  
+Please refer to the <b><a href="https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/Supplementary%20Tables/Table%20S1.%20List%20of%20components%20to%20be%20purchased.pdf">Table S1</a></b> for the list of components to be purchased and to the <b><a href="https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/Supplementary%20Tables/printing-reference.md">Table S2</a></b> for instructions on 3D printing and .
 </p>
 <p align="center">
   <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/Figure1A.jpg" height="300" title="SPIRO">
