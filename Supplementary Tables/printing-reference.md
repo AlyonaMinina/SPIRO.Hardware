@@ -15,8 +15,11 @@
 | [Set 10](https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2010.%20Alyona%20Minina.%202019.%20UHEI.stl)  | Z: 40°          | –           | Yes  | 30 %   | Transparent | Normal |
 | [Set 11](https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/SPIRO%20hardware.%20stl%20files%20for%20printable%20sets/Set%2011.%20Alyona%20Minina.%202019.%20UHEI.stl)  | Z: 50°          | –           | Yes  | 30 %   | Transparent | Normal |
 
-<details><summary>HA!
+<details><summary>HA!</summary>
 
  **Notes:**
 Values for the *Print quality* column refer to the default (Normal) or "Detail" settings (e.g., 0.10 mm layer height).
-Please ignore messages about toolpath being detected outside the perimeter.</summary>
+Please ignore messages about toolpath being detected outside the perimeter.
+
+
+</details>
