@@ -1,4 +1,4 @@
-# Reference sheet for printing SPIRO
+# Table S2. Structural parts of SPIRO for 3D printing
 
 
 | STL file                                                     | Rotation        | Supports    | Brim | Infill | Filament    | Additional info                                              |
