@@ -21,5 +21,7 @@ Required total amount of black matt PLA = 1685 g <br>Required total amount of mi
 <br>
 <br>
 **Accessories:**<br>
+[Printable anti-reflection lids for square 12 cm plates](https://www.thingiverse.com/thing:4240574)<br>
+[Seed plating guide for square 12 cm plates](https://www.thingiverse.com/thing:4240612)<br>
+[Seed plating guides and insets for multi-well square 12 cm plates](https://www.thingiverse.com/thing:4196441)<br>
 [Seed plating guide for round 9 cm plates](https://www.thingiverse.com/thing:4016917)<br>
-[Seed plating guides and insets for square 12 cm plates](https://www.thingiverse.com/thing:4196441)
