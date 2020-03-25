@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIRO%20logo.jpg" height="50" title="SPIRO">
-  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIRO%20text%20logo.jpg" width="100" title="SPIRO">
+  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/4.%20Repository%20figures/SPIRO%20logo.jpg" height="50" title="SPIRO">
+  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/4.%20Repository%20figures/SPIRO%20text%20logo.jpg" width="100" title="SPIRO">
 </p>
 <p align="center">
     <b>S</b>mart <b>P</b>late <b>I</b>maging <b>Ro</b>bot
@@ -23,8 +23,8 @@ SPIRO hardware includes thirteen sets of 3D printable structural parts. Sets 3a 
 Please refer to the <b><a href="https://github.com/AlyonaMinina/SPIRO.Hardware/raw/master/Supplementary%20Tables/Table%20S1.%20List%20of%20components%20to%20be%20purchased.pdf">Table S1</a></b> for the list of components to be purchased and to the <b><a href="https://github.com/AlyonaMinina/SPIRO.Hardware/blob/master/Supplementary%20Tables/Table%20S2.%20Structural%20parts%20of%20SPIRO%20for%203D%20printing.md">Table S2</a></b> for instructions on 3D printing.
 </p>
 <p align="center">
-  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/Figure1A.jpg" height="300" title="SPIRO">
-  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/Assembly%20manual/SPIROstructure.gif" width="300" title="SPIRO">
+  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/4.%20Repository%20figures/Figure1A.jpg" height="300" title="SPIRO">
+  <img src="https://github.com/AlyonaMinina/SPIRO/blob/master/4.%20Repository%20figures/SPIROstructure.gif" width="300" title="SPIRO">
 </p>
 <p align="left">
 <b>Figure 1</b>. SPIRO structure: <b>a</b>, Borgs nest harboring the electronics; <b>b</b>, vertical rail with the light screen, both can slide along the horizontal rail; <b>c</b>, camera house, with adjustable position on the vertical; <b>d</b>, LED frame with diffusors, position along the horizontal rail can be adjusted; <b>e</b>, rotating stage to hold Petri plates; <b>f</b>, motor hub harboring the stepper motor and connecting the horizontal rails. 
