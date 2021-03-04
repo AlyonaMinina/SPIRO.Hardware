@@ -21,3 +21,7 @@ Please refer to **[Table S1](https://github.com/AlyonaMinina/SPIRO.Hardware/raw/
 </p>
 
 **Figure 1**. SPIRO structure: **a**, Borg's nest harboring the electronics; **b**, vertical rail with the light screen, both can slide along the horizontal rail; **c**, camera house, with adjustable position on the vertical; **d**, LED frame with diffusors, position along the horizontal rail can be adjusted; **e**, rotating stage to hold Petri plates; **f**, motor hub harboring the stepper motor and connecting the horizontal rails. 
+
+<p align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ </p>
