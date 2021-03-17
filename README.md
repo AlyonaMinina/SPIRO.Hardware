@@ -5,7 +5,7 @@
     <b>S</b>mart <b>P</b>late <b>I</b>maging <b>Ro</b>bot
 </p>
 
-[SPIRO](https://www.alyonaminina.org/spiro) is a smart robot for automated time-lapse imaging of biological samples grown on vertically positioned Petri plates: plant seeds, seedlings, bacterial colonies, fungal mycelia, moss etc. The preprint version of our manuscrupit is available [here](https://www.biorxiv.org/content/10.1101/2021.03.15.435343v1).
+[SPIRO](https://www.alyonaminina.org/spiro) is a smart robot for automated time-lapse imaging of biological samples grown on vertically positioned Petri plates: plant seeds, seedlings, bacterial colonies, fungal mycelia, moss etc. The preprint version of our manuscript is available [here](https://www.biorxiv.org/content/10.1101/2021.03.15.435343v1).
 
 SPIRO is controlled by designated software and operated remotely using a web-based user interface [(GitHub repo)](https://github.com/jonasoh/spiro).
 
