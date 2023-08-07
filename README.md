@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlyonaMinina/Files_for_SPIRO_reps/blob/master/SPIRO.Hardware%20files/SPIRO%20logo.png" height="100" title="SPIRO">
+  <img src="https://github.com/AlyonaMinina/Files_for_SPIRO_reps/blob/master/SPIRO.Hardware%20files/boring%20logo%20v3.png?raw=true" height="100" title="SPIRO">
 </p>
 <p align="center">
     <b>S</b>mart <b>P</b>late <b>I</b>maging <b>Ro</b>bot
